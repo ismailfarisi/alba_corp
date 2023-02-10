@@ -1,0 +1,151 @@
+[
+    {
+    "id":1,
+    "name":"Brakes",
+    "image":"assets/images/Groupbrake.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  },
+      {
+    "id":2,
+    "name":"Electrical",
+    "image":"assets/images/Groupelectric.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  },
+      {
+    "id":3,
+    "name":"Air Conditioning",
+    "image":"assets/images/Groupac.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  },
+      {
+    "id":4,
+    "name":"Transmission",
+    "image":"assets/images/Grouptransmission.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  },
+      {
+    "id":5,
+    "name":"Wheels & Tyres",
+    "image":"assets/images/Groupwheels.png",
+
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  },
+    {
+    "id":6,
+    "name":"Maintenance",
+    "image":"assets/images/Groupmaintenance.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+
+    ]
+    
+  },
+    {
+    "id":7,
+    "name":"Exhaust",
+    "image":"assets/images/Groupexhaust.png",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "sub_services":[
+      {"id":1,
+      "name":"Brake Fluid"
+      },
+      {"id":2,
+      "name":"Shoe Replacement"
+      },
+      {"id":3,
+      "name":"Rotor Replacements"
+      },
+      {"id":4,
+      "name":"Brake Pads"
+      }
+    ]
+    
+  }
+  ]

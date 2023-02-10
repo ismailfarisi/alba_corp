@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "card_number": "5610827377924022",
+    "exp_month": 6,
+    "exp_year": 26,
+    "name": "Claudio McCambridge",
+    "brand": "mastercard",
+    "is_default": true
+  }, {
+    "id": 2,
+    "card_number": "3780233074333142",
+    "exp_month": 2,
+    "exp_year": 32,
+    "name": "Truman Holbarrow",
+    "brand": "visa",
+    "is_default": false
+  }, {
+    "id": 3,
+    "card_number": "3742885241618572",
+    "exp_month": 10,
+    "exp_year": 25,
+    "name": "Vladimir Agott",
+    "brand": "paypal",
+    "is_default": true
+  }, {
+    "id": 4,
+    "card_number": "3538771734300412",
+    "exp_month": 2,
+    "exp_year": 24,
+    "name": "Raynard Horsefield",
+    "brand": "visa",
+    "is_default": true
+  }, {
+    "id": 5,
+    "card_number": "5048373729337042",
+    "exp_month": 9,
+    "exp_year": 30,
+    "name": "Andre Dyas",
+    "brand": "mastercard",
+    "is_default": false
+  }]

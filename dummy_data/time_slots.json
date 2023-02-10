@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "time_slot_from": "6:09 AM",
+    "time_slot_to": "10:48 PM"
+  }, {
+    "id": 2,
+    "time_slot_from": "9:26 PM",
+    "time_slot_to": "3:02 AM"
+  }, {
+    "id": 3,
+    "time_slot_from": "9:31 AM",
+    "time_slot_to": "11:08 AM"
+  }, {
+    "id": 4,
+    "time_slot_from": "3:46 AM",
+    "time_slot_to": "5:04 PM"
+  }, {
+    "id": 5,
+    "time_slot_from": "2:18 AM",
+    "time_slot_to": "12:11 AM"
+  }, {
+    "id": 6,
+    "time_slot_from": "5:03 AM",
+    "time_slot_to": "5:54 AM"
+  }, {
+    "id": 7,
+    "time_slot_from": "7:38 PM",
+    "time_slot_to": "11:34 PM"
+  }, {
+    "id": 8,
+    "time_slot_from": "9:26 PM",
+    "time_slot_to": "11:21 AM"
+  }, {
+    "id": 9,
+    "time_slot_from": "2:47 PM",
+    "time_slot_to": "6:59 PM"
+  }, {
+    "id": 10,
+    "time_slot_from": "2:12 AM",
+    "time_slot_to": "9:08 PM"
+  }, {
+    "id": 11,
+    "time_slot_from": "12:53 AM",
+    "time_slot_to": "9:16 AM"
+  }, {
+    "id": 12,
+    "time_slot_from": "12:31 PM",
+    "time_slot_to": "4:47 AM"
+  }]
