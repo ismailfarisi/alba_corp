@@ -21,6 +21,7 @@ class ServicesPageCubit extends Cubit<ServicesPageState> {
   final GetServicesUsecase _getServicesUsecase;
 
   Future<void> getServices() async {
+    emit(state.copyWith(getServicesStatus: Status.loading));
     final result = await _getServicesUsecase();
     result.when(success: (data) {
       emit(state.copyWith(getServicesStatus: Status.success, services: data));

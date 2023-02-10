@@ -1,5 +1,6 @@
 import 'package:alba_corp/components/navigation.dart';
 import 'package:alba_corp/core/di.dart';
+import 'package:alba_corp/core/status.dart';
 import 'package:alba_corp/view/schedule_page/schedule_page.dart';
 import 'package:alba_corp/view/services_page/cubit/services_page_cubit.dart';
 import 'package:flutter/material.dart';
@@ -29,6 +30,11 @@ class _ServicesPageLayout extends StatelessWidget {
       ),
       body: BlocBuilder<ServicesPageCubit, ServicesPageState>(
         builder: (context, state) {
+          if (state.getServicesStatus == Status.loading) {
+            return const Center(
+              child: CircularProgressIndicator(),
+            );
+          }
           return ListView.separated(
               itemCount: state.services.length,
               padding: const EdgeInsets.only(
