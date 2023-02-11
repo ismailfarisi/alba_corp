@@ -8,7 +8,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Alba corp',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
           primarySwatch: const MaterialColor(0xffD00D25, {
             50: Color(0xFFF9E2E5),
