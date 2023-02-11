@@ -88,7 +88,7 @@ class _SavedCardsPageLayoutState extends State<_SavedCardsPageLayout> {
                           padding: const EdgeInsets.symmetric(
                               vertical: 26, horizontal: 36),
                           child: Text(
-                            "Your Cards: ",
+                            "Your Cards :",
                             style: Theme.of(context)
                                 .textTheme
                                 .titleLarge
@@ -133,7 +133,7 @@ class _SavedCardsPageLayoutState extends State<_SavedCardsPageLayout> {
                         ),
                         Padding(
                           padding: const EdgeInsets.symmetric(
-                              horizontal: 36, vertical: 20),
+                              horizontal: 36, vertical: 9),
                           child: Text(
                             "Add card verification value",
                             style: Theme.of(context)
@@ -143,8 +143,8 @@ class _SavedCardsPageLayoutState extends State<_SavedCardsPageLayout> {
                           ),
                         ),
                         const Padding(
-                          padding: EdgeInsets.symmetric(
-                              horizontal: 36, vertical: 10),
+                          padding:
+                              EdgeInsets.symmetric(horizontal: 36, vertical: 9),
                           child: AppTextField(
                             maxWidth: 150,
                             label: "CVV",
@@ -152,7 +152,7 @@ class _SavedCardsPageLayoutState extends State<_SavedCardsPageLayout> {
                         ),
                         Padding(
                           padding: const EdgeInsets.symmetric(
-                              horizontal: 36, vertical: 10),
+                              horizontal: 36, vertical: 9),
                           child: Form(
                             key: _formKey,
                             child: Column(

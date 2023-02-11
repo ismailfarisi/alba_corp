@@ -37,6 +37,7 @@ class _ServicesPageLayout extends StatelessWidget {
           }
           return ListView.separated(
               itemCount: state.services.length,
+              physics: const BouncingScrollPhysics(),
               padding: const EdgeInsets.only(
                   left: 29, right: 29, top: 66, bottom: 66),
               separatorBuilder: (context, index) => const SizedBox(

@@ -50,7 +50,7 @@ flutter:
     - family: Helvetica Neue
       fonts:
         - asset: assets/fonts/helvetica_neue.ttf
-        - asset: assets/fonts/helvetica_neu_bold.ttf
+        - asset: assets/fonts/helvetica_neue_black.ttf
           weight: 700
         
   #   - family: Trajan Pro
